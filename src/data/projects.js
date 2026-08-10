@@ -1,4 +1,4 @@
-import picks4tipsImage from "../assets/picks4tips-home.png";
+import picks4tipsImage from "../assets/heroo.png";
 import customerDashboardImage from "../assets/customerdashboard.png";
 import workerDashboardImage from "../assets/workerdashboard.png";
 import adminImage from "../assets/admin.png";

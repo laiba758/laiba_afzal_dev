@@ -1,0 +1,36 @@
+:root {
+  /* ---- Color: deep charcoal-navy base, single warm signal accent ---- */
+  --bg: #08090c;
+  --bg-elevated: #0e1015;
+  --surface: #131620;
+  --surface-hover: #191c28;
+  --border: #232733;
+  --border-strong: #323747;
+
+  --text-primary: #eef0f4;
+  --text-secondary: #a1a7b5;
+  --text-muted: #6b7080;
+
+  --accent: #d2a24c;
+  --accent-strong: #e6bd6d;
+  --accent-soft: rgba(210, 162, 76, 0.12);
+  --accent-border: rgba(210, 162, 76, 0.35);
+
+  --accent-cool: #7c8db5; /* secondary tech-badge tone, used sparingly */
+
+  --success: #6fae8c;
+  --shadow-color: rgba(0, 0, 0, 0.5);
+
+  /* ---- Type ---- */
+  --font-display: "Space Grotesk", "Inter", sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+
+  /* ---- Layout ---- */
+  --container-width: 1200px;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  --section-pad-y: clamp(64px, 10vw, 128px);
+}
